@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">class HELLO_WORLD:<br>    def __init__(self):<br>        self.name = "Vitaliia Stavytska"<br>        self.acknowledgements = "Data Science & Analytics"<br>        self.primarySkillset = ["MySQL", "Excel", "Power BI"]<br>        self.languages = ["Python", "To be continued"]</p>
+<p align="left">class HELLO_WORLD:<br>    def __init__(self):<br>            self.name = "Vitaliia Stavytska"<br>            self.acknowledgements = "Data Science & Analytics"<br>            self.primarySkillset = ["MySQL", "Excel", "Power BI"]<br>            self.languages = ["Python", "To be continued"]</p>
 
 ###
 
@@ -37,7 +37,9 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br clear="both">
+
+<img align="left" height="0" src=""  />
 
 ###
 
