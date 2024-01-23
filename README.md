@@ -1,4 +1,4 @@
-<h2 align="right">Hi 👋! My name is Vitaliia Stavytska and I'm a Junior Data Analyst, from Rome.</h2>
+<h2 align="right">Hi 👋! My name is Vitaliia and I'm a Junior Data Analyst, from Rome.</h2>
 
 ###
 
